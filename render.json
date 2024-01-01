@@ -1,0 +1,109 @@
+{
+  "Bibata-Catppuccin-Latte": {
+    "dir": "svg/modern",
+    "out": "bitmaps/Bibata-Catppuccin-Latte",
+    "colors": [
+      { "match": "#00FF00", "replace": "#e6e9ef" },
+      { "match": "#0000FF", "replace": "#4c4f69" },
+      { "match": "#FF0000", "replace": "#e6e9ef" },
+      { "match": "#ffffff", "replace": "#4c4f69" },
+      { "match": "#96c865", "replace": "#179299" },
+      { "match": "#fdbe2a", "replace": "#df8e1d" },
+      { "match": "#fe0000", "replace": "#d20f39" },
+      { "match": "#5f3be4", "replace": "#8839ef" },
+      { "match": "#06b231", "replace": "#40a02b" },
+      { "match": "#f27400", "replace": "#1e66f5" },
+      { "match": "#606060", "replace": "#7c7f93" },
+      { "match": "#2c2c2c", "replace": "#7c7f93" },
+      { "match": "#0a6857", "replace": "#209fb5" },
+      { "match": "#179dd8", "replace": "#7287fd" },
+      { "match": "#4faddf", "replace": "#04a5e5" },
+      { "match": "#f1613a", "replace": "#fe640b" },
+      { "match": "#32a0da", "replace": "#04a5e5" },
+      { "match": "#7eba41", "replace": "#40a02b" },
+      { "match": "#fcb813", "replace": "#fe640b" },
+      { "match": "#f05024", "replace": "#d20f39" }
+    ]
+  },
+
+  "Bibata-Catppuccin-Frappe": {
+    "dir": "svg/modern",
+    "out": "bitmaps/Bibata-Catppuccin-Frappe",
+    "colors": [
+      { "match": "#00FF00", "replace": "#292c3c" },
+      { "match": "#0000FF", "replace": "#c6d0f5" },
+      { "match": "#FF0000", "replace": "#292c3c" },
+      { "match": "#ffffff", "replace": "#c6d0f5" },
+      { "match": "#96c865", "replace": "#81c8be" },
+      { "match": "#fdbe2a", "replace": "#e5c890" },
+      { "match": "#fe0000", "replace": "#e78284" },
+      { "match": "#5f3be4", "replace": "#ca9ee6" },
+      { "match": "#06b231", "replace": "#a6d189" },
+      { "match": "#f27400", "replace": "#8caaee" },
+      { "match": "#606060", "replace": "#949cbb" },
+      { "match": "#2c2c2c", "replace": "#949cbb" },
+      { "match": "#0a6857", "replace": "#85c1dc" },
+      { "match": "#179dd8", "replace": "#babbf1" },
+      { "match": "#4faddf", "replace": "#99d1db" },
+      { "match": "#f1613a", "replace": "#ef9f76" },
+      { "match": "#32a0da", "replace": "#99d1db" },
+      { "match": "#7eba41", "replace": "#a6d189" },
+      { "match": "#fcb813", "replace": "#ef9f76" },
+      { "match": "#f05024", "replace": "#e78284" }
+    ]
+  },
+
+  "Bibata-Catppuccin-Macchiato": {
+    "dir": "svg/modern",
+    "out": "bitmaps/Bibata-Catppuccin-Macchiato",
+    "colors": [
+      { "match": "#00FF00", "replace": "#1e2030" },
+      { "match": "#0000FF", "replace": "#cad3f5" },
+      { "match": "#FF0000", "replace": "#1e2030" },
+      { "match": "#ffffff", "replace": "#cad3f5" },
+      { "match": "#96c865", "replace": "#8bd5ca" },
+      { "match": "#fdbe2a", "replace": "#eed49f" },
+      { "match": "#fe0000", "replace": "#ed8796" },
+      { "match": "#5f3be4", "replace": "#c6a0f6" },
+      { "match": "#06b231", "replace": "#a6da95" },
+      { "match": "#f27400", "replace": "#8aadf4" },
+      { "match": "#606060", "replace": "#939ab7" },
+      { "match": "#2c2c2c", "replace": "#939ab7" },
+      { "match": "#0a6857", "replace": "#7dc4e4" },
+      { "match": "#179dd8", "replace": "#b7bdf8" },
+      { "match": "#4faddf", "replace": "#91d7e3" },
+      { "match": "#f1613a", "replace": "#f5a97f" },
+      { "match": "#32a0da", "replace": "#91d7e3" },
+      { "match": "#7eba41", "replace": "#a6da95" },
+      { "match": "#fcb813", "replace": "#f5a97f" },
+      { "match": "#f05024", "replace": "#ed8796" }
+    ]
+  },
+
+  "Bibata-Catppuccin-Mocha": {
+    "dir": "svg/modern",
+    "out": "bitmaps/Bibata-Catppuccin-Mocha",
+    "colors": [
+      { "match": "#00FF00", "replace": "#181825" },
+      { "match": "#0000FF", "replace": "#cdd6f4" },
+      { "match": "#FF0000", "replace": "#181825" },
+      { "match": "#ffffff", "replace": "#cdd6f4" },
+      { "match": "#96c865", "replace": "#94e2d5" },
+      { "match": "#fdbe2a", "replace": "#f9e2af" },
+      { "match": "#fe0000", "replace": "#f38ba8" },
+      { "match": "#5f3be4", "replace": "#cba6f7" },
+      { "match": "#06b231", "replace": "#a6e3a1" },
+      { "match": "#f27400", "replace": "#89b4fa" },
+      { "match": "#606060", "replace": "#9399b2" },
+      { "match": "#2c2c2c", "replace": "#9399b2" },
+      { "match": "#0a6857", "replace": "#74c7ec" },
+      { "match": "#179dd8", "replace": "#b4befe" },
+      { "match": "#4faddf", "replace": "#89dceb" },
+      { "match": "#f1613a", "replace": "#fab387" },
+      { "match": "#32a0da", "replace": "#89dceb" },
+      { "match": "#7eba41", "replace": "#a6e3a1" },
+      { "match": "#fcb813", "replace": "#fab387" },
+      { "match": "#f05024", "replace": "#f38ba8" }
+    ]
+  }
+}
